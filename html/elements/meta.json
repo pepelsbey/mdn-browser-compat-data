@@ -571,9 +571,6 @@
                 "firefox_android": {
                   "version_added": "4"
                 },
-                "ie": {
-                  "version_added": false
-                },
                 "oculus": "mirror",
                 "opera": "mirror",
                 "opera_android": {
