@@ -125,7 +125,7 @@
         },
         "oblique-angle": {
           "__compat": {
-            "description": "`oblique` can accept an `&lt;angle&gt;`",
+            "description": "`oblique` can accept an `<angle>`",
             "spec_url": "https://drafts.csswg.org/css-fonts/#valdef-font-style-oblique-angle--90deg-90deg",
             "tags": [
               "web-features:font-style"
@@ -140,9 +140,6 @@
                 "version_added": "61"
               },
               "firefox_android": "mirror",
-              "ie": {
-                "version_added": false
-              },
               "oculus": "mirror",
               "opera": "mirror",
               "opera_android": "mirror",

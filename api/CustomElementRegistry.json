@@ -17,9 +17,6 @@
             "version_added": "63"
           },
           "firefox_android": "mirror",
-          "ie": {
-            "version_added": false
-          },
           "oculus": "mirror",
           "opera": "mirror",
           "opera_android": "mirror",
@@ -54,9 +51,6 @@
               "version_added": "63"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -93,9 +87,6 @@
               "version_added": "63"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -111,6 +102,38 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
+          }
+        },
+        "connectedMoveCallback_lifecycle_callback": {
+          "__compat": {
+            "description": "`connectedMoveCallback()` lifecycle callback",
+            "spec_url": "https://html.spec.whatwg.org/multipage/custom-elements.html#preserving-custom-element-state-when-moved",
+            "support": {
+              "chrome": {
+                "version_added": "133"
+              },
+              "chrome_android": "mirror",
+              "edge": "mirror",
+              "firefox": {
+                "version_added": false
+              },
+              "firefox_android": "mirror",
+              "oculus": "mirror",
+              "opera": "mirror",
+              "opera_android": "mirror",
+              "safari": {
+                "version_added": false
+              },
+              "safari_ios": "mirror",
+              "samsunginternet_android": "mirror",
+              "webview_android": "mirror",
+              "webview_ios": "mirror"
+            },
+            "status": {
+              "experimental": true,
+              "standard_track": true,
+              "deprecated": false
+            }
           }
         },
         "disabledFeatures_static_property": {
@@ -129,9 +152,6 @@
                 "version_added": "92"
               },
               "firefox_android": "mirror",
-              "ie": {
-                "version_added": false
-              },
               "oculus": "mirror",
               "opera": "mirror",
               "opera_android": "mirror",
@@ -168,9 +188,6 @@
               "version_added": "63"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -208,9 +225,6 @@
               "version_added": "116"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -248,9 +262,6 @@
               "version_added": "63"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -286,9 +297,6 @@
               "version_added": "63"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",

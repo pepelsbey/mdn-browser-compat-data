@@ -3,7 +3,7 @@
     "elements": {
       "button": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Element/button",
+          "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/button",
           "spec_url": "https://html.spec.whatwg.org/multipage/form-elements.html#the-button-element",
           "tags": [
             "web-features:button"
@@ -67,21 +67,11 @@
                 ]
               },
               "firefox_android": "mirror",
-              "ie": {
-                "version_added": false
-              },
               "oculus": "mirror",
               "opera": "mirror",
               "opera_android": "mirror",
               "safari": {
-                "version_added": "preview",
-                "flags": [
-                  {
-                    "type": "preference",
-                    "name": "InvokerAttributesEnabled",
-                    "value_to_set": "true"
-                  }
-                ]
+                "version_added": "preview"
               },
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
@@ -89,7 +79,7 @@
               "webview_ios": "mirror"
             },
             "status": {
-              "experimental": true,
+              "experimental": false,
               "standard_track": true,
               "deprecated": false
             }
@@ -118,21 +108,11 @@
                 ]
               },
               "firefox_android": "mirror",
-              "ie": {
-                "version_added": false
-              },
               "oculus": "mirror",
               "opera": "mirror",
               "opera_android": "mirror",
               "safari": {
-                "version_added": "preview",
-                "flags": [
-                  {
-                    "type": "preference",
-                    "name": "InvokerAttributesEnabled",
-                    "value_to_set": "true"
-                  }
-                ]
+                "version_added": "preview"
               },
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
@@ -140,7 +120,7 @@
               "webview_ios": "mirror"
             },
             "status": {
-              "experimental": true,
+              "experimental": false,
               "standard_track": true,
               "deprecated": false
             }
@@ -148,7 +128,7 @@
         },
         "disabled": {
           "__compat": {
-            "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Attributes/disabled",
+            "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Attributes/disabled",
             "spec_url": "https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#attr-fe-disabled",
             "tags": [
               "web-features:button"
@@ -203,9 +183,6 @@
                 "version_added": "4"
               },
               "firefox_android": "mirror",
-              "ie": {
-                "version_added": false
-              },
               "oculus": "mirror",
               "opera": "mirror",
               "opera_android": "mirror",
@@ -464,7 +441,7 @@
         },
         "popovertarget": {
           "__compat": {
-            "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Element/button#popovertarget",
+            "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/button#popovertarget",
             "spec_url": "https://html.spec.whatwg.org/multipage/popover.html#attr-popovertarget",
             "tags": [
               "web-features:popover"
@@ -479,9 +456,6 @@
                 "version_added": "125"
               },
               "firefox_android": "mirror",
-              "ie": {
-                "version_added": false
-              },
               "oculus": "mirror",
               "opera": "mirror",
               "opera_android": "mirror",
@@ -515,9 +489,6 @@
                   "version_added": false
                 },
                 "firefox_android": "mirror",
-                "ie": {
-                  "version_added": false
-                },
                 "oculus": "mirror",
                 "opera": "mirror",
                 "opera_android": "mirror",
@@ -539,7 +510,7 @@
         },
         "popovertargetaction": {
           "__compat": {
-            "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Element/button#popovertargetaction",
+            "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/button#popovertargetaction",
             "spec_url": "https://html.spec.whatwg.org/multipage/popover.html#attr-popovertargetaction",
             "tags": [
               "web-features:popover"
@@ -554,9 +525,6 @@
                 "version_added": "125"
               },
               "firefox_android": "mirror",
-              "ie": {
-                "version_added": false
-              },
               "oculus": "mirror",
               "opera": "mirror",
               "opera_android": "mirror",

@@ -19,9 +19,6 @@
             "version_added": "25"
           },
           "firefox_android": "mirror",
-          "ie": {
-            "version_added": false
-          },
           "oculus": "mirror",
           "opera": "mirror",
           "opera_android": "mirror",
@@ -30,9 +27,7 @@
           },
           "safari_ios": "mirror",
           "samsunginternet_android": "mirror",
-          "webview_android": {
-            "version_added": "≤37"
-          },
+          "webview_android": "mirror",
           "webview_ios": "mirror"
         },
         "status": {
@@ -58,9 +53,6 @@
               "impl_url": "https://bugzil.la/1504984"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -97,9 +89,6 @@
               "impl_url": "https://bugzil.la/1308431"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -137,9 +126,6 @@
               "version_added": "25"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -148,9 +134,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": {
-              "version_added": "≤37"
-            },
+            "webview_android": "mirror",
             "webview_ios": "mirror"
           },
           "status": {
@@ -179,9 +163,6 @@
               "version_added": "25"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -190,9 +171,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": {
-              "version_added": "≤37"
-            },
+            "webview_android": "mirror",
             "webview_ios": "mirror"
           },
           "status": {
@@ -233,9 +212,6 @@
               }
             ],
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": {
@@ -248,9 +224,7 @@
             "samsunginternet_android": {
               "version_added": "1.0"
             },
-            "webview_android": {
-              "version_added": "≤37"
-            },
+            "webview_android": "mirror",
             "webview_ios": "mirror"
           },
           "status": {
@@ -291,9 +265,6 @@
               }
             ],
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": {
@@ -306,9 +277,7 @@
             "samsunginternet_android": {
               "version_added": "1.0"
             },
-            "webview_android": {
-              "version_added": "≤37"
-            },
+            "webview_android": "mirror",
             "webview_ios": "mirror"
           },
           "status": {
@@ -335,9 +304,6 @@
               "version_added": "53"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -373,9 +339,6 @@
               "version_added": "53"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -413,9 +376,6 @@
               "version_added": "25"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -424,9 +384,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": {
-              "version_added": "≤37"
-            },
+            "webview_android": "mirror",
             "webview_ios": "mirror"
           },
           "status": {
@@ -455,9 +413,6 @@
               "version_added": "25"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -466,9 +421,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": {
-              "version_added": "≤37"
-            },
+            "webview_android": "mirror",
             "webview_ios": "mirror"
           },
           "status": {
@@ -497,9 +450,6 @@
               "version_added": "25"
             },
             "firefox_android": "mirror",
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -508,9 +458,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": {
-              "version_added": "≤37"
-            },
+            "webview_android": "mirror",
             "webview_ios": "mirror"
           },
           "status": {
@@ -547,9 +495,6 @@
               "version_added": "25",
               "notes": "Firefox for Android does not currently take into account scheduled or gradiated changes to the parameter's value; only the initial value or the most recent explicitly set value is returned."
             },
-            "ie": {
-              "version_added": false
-            },
             "oculus": "mirror",
             "opera": "mirror",
             "opera_android": "mirror",
@@ -558,9 +503,7 @@
             },
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
-            "webview_android": {
-              "version_added": "≤37"
-            },
+            "webview_android": "mirror",
             "webview_ios": "mirror"
           },
           "status": {
