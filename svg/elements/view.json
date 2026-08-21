@@ -71,6 +71,148 @@
             }
           }
         },
+        "svgView": {
+          "__compat": {
+            "description": "<code>svgView()</code> URL fragment",
+            "spec_url": "https://w3c.github.io/svgwg/svg2-draft/linking.html#SVGViewSpecification",
+            "tags": [
+              "web-features:svg"
+            ],
+            "support": {
+              "chrome": {
+                "version_added": "≤101"
+              },
+              "chrome_android": "mirror",
+              "edge": "mirror",
+              "firefox": {
+                "version_added": "≤97"
+              },
+              "firefox_android": "mirror",
+              "oculus": "mirror",
+              "opera": "mirror",
+              "opera_android": "mirror",
+              "safari": {
+                "version_added": "≤15.4"
+              },
+              "safari_ios": "mirror",
+              "samsunginternet_android": "mirror",
+              "webview_android": "mirror",
+              "webview_ios": "mirror"
+            },
+            "status": {
+              "experimental": false,
+              "standard_track": true,
+              "deprecated": false
+            }
+          },
+          "preserveAspectRatio": {
+            "__compat": {
+              "description": "<code>preserveAspectRatio()</code> parameter",
+              "spec_url": "https://w3c.github.io/svgwg/svg2-draft/linking.html#SVGViewSpecification",
+              "tags": [
+                "web-features:svg"
+              ],
+              "support": {
+                "chrome": {
+                  "version_added": "≤101"
+                },
+                "chrome_android": "mirror",
+                "edge": "mirror",
+                "firefox": {
+                  "version_added": "≤97"
+                },
+                "firefox_android": "mirror",
+                "oculus": "mirror",
+                "opera": "mirror",
+                "opera_android": "mirror",
+                "safari": {
+                  "version_added": "≤15.4"
+                },
+                "safari_ios": "mirror",
+                "samsunginternet_android": "mirror",
+                "webview_android": "mirror",
+                "webview_ios": "mirror"
+              },
+              "status": {
+                "experimental": false,
+                "standard_track": true,
+                "deprecated": false
+              }
+            }
+          },
+          "transform": {
+            "__compat": {
+              "description": "<code>transform()</code> parameter",
+              "spec_url": "https://w3c.github.io/svgwg/svg2-draft/linking.html#SVGViewSpecification",
+              "tags": [
+                "web-features:svg"
+              ],
+              "support": {
+                "chrome": {
+                  "version_added": "≤101"
+                },
+                "chrome_android": "mirror",
+                "edge": "mirror",
+                "firefox": {
+                  "version_added": false
+                },
+                "firefox_android": "mirror",
+                "oculus": "mirror",
+                "opera": "mirror",
+                "opera_android": "mirror",
+                "safari": {
+                  "version_added": "≤15.4",
+                  "partial_implementation": true,
+                  "notes": "The view transform is applied, but the rendered result differs from Chromium: the <code>viewBox</code> scaling is not preserved."
+                },
+                "safari_ios": "mirror",
+                "samsunginternet_android": "mirror",
+                "webview_android": "mirror",
+                "webview_ios": "mirror"
+              },
+              "status": {
+                "experimental": false,
+                "standard_track": true,
+                "deprecated": false
+              }
+            }
+          },
+          "viewBox": {
+            "__compat": {
+              "description": "<code>viewBox()</code> parameter",
+              "spec_url": "https://w3c.github.io/svgwg/svg2-draft/linking.html#SVGViewSpecification",
+              "tags": [
+                "web-features:svg"
+              ],
+              "support": {
+                "chrome": {
+                  "version_added": "≤101"
+                },
+                "chrome_android": "mirror",
+                "edge": "mirror",
+                "firefox": {
+                  "version_added": "≤97"
+                },
+                "firefox_android": "mirror",
+                "oculus": "mirror",
+                "opera": "mirror",
+                "opera_android": "mirror",
+                "safari": {
+                  "version_added": "≤15.4"
+                },
+                "safari_ios": "mirror",
+                "samsunginternet_android": "mirror",
+                "webview_android": "mirror",
+                "webview_ios": "mirror"
+              },
+              "status": {
+                "experimental": false,
+                "standard_track": true,
+                "deprecated": false
+              }
+            }
+          }
+        },
         "viewBox": {
           "__compat": {
             "spec_url": "https://w3c.github.io/svgwg/svg2-draft/coords.html#ViewBoxAttribute",
